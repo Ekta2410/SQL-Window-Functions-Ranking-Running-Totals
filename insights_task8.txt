@@ -1,0 +1,5 @@
+1. Customer ranking analysis shows that a small number of customers contribute a significant portion of regional sales.
+
+2. Month-over-month sales growth fluctuates, indicating seasonal demand patterns across different periods.
+
+3. The top three products in each category generate the majority of category-level revenue, highlighting key focus products.
